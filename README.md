@@ -1,3 +1,2 @@
 # latihan-branch-bangkit
-lala lili
-hiya hiyu hiyo
+main valo ga enak kali
